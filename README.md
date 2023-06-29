@@ -28,5 +28,5 @@ On successful function call, the code returns various climate parameters
 To deploy this project run
 
 ```bash
-  https://abhigupta24.github.io/weather.github.io/
+  https://rishisrishi.github.io/weatherApp.github.io/
 ```
